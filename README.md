@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Samuel Mitterrutzner</h1>
 
-- 👨‍💻 I’m currently working as a Software Developer at **Viable**
+- 👨‍💻 I’m currently working as a Software Developer at **Sygnum**
 
 - 💻 Personal Websiste 👉 [samuel-m.com](https://samuel-m.com/)
 
