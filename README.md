@@ -2,8 +2,6 @@
 
 - 👨‍💻 I’m currently working as a Senior Software Developer at **Sygnum**
 
-- 💻 Personal Websiste 👉 [samuel-m.com](https://samuel-m.com/)
-
 - 💬 Ask me about **Anything you need**
 
 <h3 align="left">Connect with me:</h3>
